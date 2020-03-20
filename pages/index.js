@@ -1,7 +1,9 @@
-export default function Index() {
+import React from 'react';
+
+const Index = () => {
   return (
-    <div>
-      <p>Next.js</p>
-    </div>
+  	<button onClick={{}}>Next.js</button>
   );
-}
+};
+
+export default Index;
