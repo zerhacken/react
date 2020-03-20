@@ -1,2 +1,5 @@
-# zerhacken-react
-react
+# README
+
+```
+npm run dev
+```
