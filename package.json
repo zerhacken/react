@@ -1,0 +1,27 @@
+{
+  "name": "zerhacken-react",
+  "version": "1.0.0",
+  "description": "```\r npm run dev\r ```",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerhacken/zerhacken-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zerhacken/zerhacken-react/issues"
+  },
+  "homepage": "https://github.com/zerhacken/zerhacken-react#readme"
+}
