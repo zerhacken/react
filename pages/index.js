@@ -1,8 +1,9 @@
 import React from 'react';
+import {Button} from "@material-ui/core";
 
 const Index = () => {
   return (
-  	<button onClick={{}}>Next.js</button>
+  	<Button variant="contained" color="primary" onClick={{}}>Next.js</Button>
   );
 };
 
