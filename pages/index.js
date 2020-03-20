@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
-import { Button } from "@material-ui/core";
+import React from 'react';
+import Home from "./home";
 
-export default class extends Component {
-  render() {
-    return (
-      <Button variant="contained" color="primary" onClick={{}}>Next.js</Button>
-    )
-  }
-}
+const App = () => (
+  <div>
+     <Home/>
+  </div>
+);
+
+export default App;
